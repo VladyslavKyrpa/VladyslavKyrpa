@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I’m Vladyslav Kyrpa 👋
 
-<!--
-**VladyslavKyrpa/VladyslavKyrpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Full-Stack JavaScript/TypeScript Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm currently focused on **clean architecture**, **data structures**, and **algorithms**.
+
+
+
+### 🛠️ Technologies
+
+**Frontend**: React, Tailwind CSS, Ant Design (AntD)
+
+**Backend**: Node.js, NestJS, Express, GraphQL, REST, PostgreSQL, TypeORM, Redis
+
+**CI/CD & Deployment**: GitHub Actions, Docker
+
+
+
+### 📫 How to contact me
+
+Email: vladyslav.kyrpa@sysgears.com
+
+LinkedIn: [Vladyslav Kyrpa](https://www.linkedin.com/in/vladyslav-kyrpa/)
